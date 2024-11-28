@@ -1,6 +1,6 @@
 # Bechtle cloudnative community
 
-![BechtleLogo](/profile/Bechtle_AG_20xx_logo.svg.png)
+<img src="./Bechtle_Fusion_sRGB_Two_Tone.png" />
 
 ### Cloud-native, software-driven development, automation, DevOps
 
